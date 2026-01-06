@@ -5,6 +5,7 @@ pymongo==4.6.1
 python-dotenv==1.0.0
 pydantic==2.5.3
 langchain 
-langchain-google-genai 
-google-generativeai
-langchain-groq
+
+langchain_groq
+langchain_core
+
