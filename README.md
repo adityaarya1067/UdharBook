@@ -1,4 +1,5 @@
-[Visit UdharBook](udharbook.onrender.com)
+🌐 **Live Demo:** [UdharBook App](https://udharbook.onrender.com)
+
 
 # 📒 UdharBook
 
@@ -47,6 +48,7 @@ UdharBook is a personal money management web application designed to help users 
 ### AI / LLM
 - LangChain
 - Groq (LLaMA-3 based model)
+
 
 
 
