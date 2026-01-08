@@ -1,4 +1,5 @@
-Udharbook is live at : udharbook.onrender.com
+[Visit UdharBook](udharbook.onrender.com)
+
 # 📒 UdharBook
 
 UdharBook is a personal money management web application designed to help users track borrowed and lent money, manage notes, and gain insights using an AI-powered assistant. The application focuses on simplicity, clarity, and useful financial insights for everyday use.
@@ -46,6 +47,7 @@ UdharBook is a personal money management web application designed to help users 
 ### AI / LLM
 - LangChain
 - Groq (LLaMA-3 based model)
+
 
 
 
